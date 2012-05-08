@@ -1,9 +1,7 @@
 IMPORTANT NOTE:
-The Vivid Dev Team is not allowed to distribute Minecraft.exe. You must download it yourself from http://minecraft.net/download for this program to function properly. 
+The Vivid Dev Team is not allowed to distribute Minecraft.exe. You must download it yourself from http://minecraft.net/download for this program to function properly. If Minecraft.exe is not placed in the same folder as MineOffline, the program will NOT work.
 
-If Minecraft.exe is not placed in the same folder as MineOffline, the program will NOT work.
-
-HOW IT WORKS:
+HOW MINEOFFLINE WORKS:
 MineOffline opens Minecraft.exe, and automatically logs into an account of mine. This downloads the required files to appdata, so you are able to play Minecraft in offline mode. 
 
 After the download has finished, you will be prompted (in the console) to select a username. Once you select the username and press Enter, you can play on offline servers using that username, or just play on Singleplayer.
