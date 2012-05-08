@@ -1,4 +1,4 @@
-<strong>IMPORTANT NOTE:</strong>
+IMPORTANT NOTE:
 The Vivid Dev Team is not allowed to distribute Minecraft.exe. You must download it yourself from http://minecraft.net/download for this program to function properly. 
 
 If Minecraft.exe is not placed in the same folder as MineOffline, the program will NOT work.
@@ -8,11 +8,11 @@ MineOffline opens Minecraft.exe, and automatically logs into an account of mine.
 
 After the download has finished, you will be prompted (in the console) to select a username. Once you select the username and press Enter, you can play on offline servers using that username, or just play on Singleplayer.
 
-<strong>SUPPORTS:</strong>
+SUPPORTS:
 Windows Vista/7/8 x64
 Windows XP/Vista/7/8 x86
 
-<strong>INSTRUCTIONS:</strong>
+INSTRUCTIONS:
 ---------------------------------------------------------------
 1. Double click the MineOffline application.
 
@@ -25,5 +25,5 @@ Windows XP/Vista/7/8 x86
 5. And Offline mode launcher will open. Enjoy Minecraft!
 ----------------------------------------------------------------
 
-<strong>CREDITS:</strong>
+CREDITS:
 Application developed by Wasim Sandhu (PeacemakerDawg). Original code developed by Ethan Vrazel (Methos319). All code belongs to the Vivid Dev Team.
