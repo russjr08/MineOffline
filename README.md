@@ -13,7 +13,7 @@ Disclaimer:
 
 We do not own Minecraft files, nor are we allowed to distribute Minecraft files, and do not plan to. But, for the "Log In and Download" feature to work, you must include Minecraft.exe in the same folder as MineOffline.exe. We leave you to do that yourself.
 
-CREDITS:
+Credits:
 ===========
 
 This program was developed by Ethan Vrazel (Methos319) and Wasim Sandhu (PeacemakerDawg). The OS X application will be developed by William Smillie (C1D3R). Development on Linux application is in progress.
