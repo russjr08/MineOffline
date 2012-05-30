@@ -36,13 +36,13 @@ goto :choice2
 REM Stop harcoding paths! Just tell users to add Minecraft.exe to the MineOffline folder :P
 REM This isn't needed :P cd "%USERPROFILE%\Desktop"
 echo.
+echo For this to work, you will need Java in your PATH variable. Most likely it is.
 echo To start the Offline Mode Launcher, you'll need a username.
 REM SET PROFILENAME=[Please enter desired username:]
 set /p profilename=Please enter desired username: %=%
 echo Your username is now: %profilename%
 REM By using a * you're supplying more Java arguments... BAD! start java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\*" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft %profilename%
-cd %AppData%\.minecraft\bin
-start java -Xms512M -Xmx1204M -cp jinput.jar;lwjgl.jar;lwjgl_utils.jar;minecraft.jar -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft %profilename%
+start java -Xms512m -Xmx1024m -cp "%APPDATA%\.minecraft\bin\minecraft.jar;%APPDATA%\.minecraft\bin\lwjgl.jar;%APPDATA%\.minecraft\bin\lwjgl_util.jar;%APPDATA%\.minecraft\bin\jinput.jar" -Djava.library.path="%APPDATA%\.minecraft\bin\natives" net.minecraft.client.Minecraft %profilename%
 goto :end
 
 :end
