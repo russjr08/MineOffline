@@ -6,7 +6,7 @@ MineOffline is a program designed for Windows users that allows you to play Mine
 Supports:
 ===========
 
-MineOffline is written in BASIC and designed for Windows XP/Vista/7/8 users (both 32- and 64-bit operating systems). The Vivid Dev Team hopes to develop an OS X and Linux application soon after the GUI of MineOffline.exe is finished.
+MineOffline is written in BATCH and designed for Windows XP/Vista/7/8 users (both 32- and 64-bit operating systems). The Vivid Dev Team hopes to develop an OS X and Linux application soon after the GUI of MineOffline.exe is finished.
 
 Disclaimer:
 ===========
@@ -16,4 +16,4 @@ We do not own Minecraft files, nor are we allowed to distribute Minecraft files,
 Credits:
 ===========
 
-This program was developed by Ethan Vrazel (Methos319) and Wasim Sandhu (PeacemakerDawg). The OS X application will be developed by William Smillie (C1D3R). Development on Linux application is in progress.
+This program was developed by Ethan Vrazel (Methos319) and Wasim Sandhu (PeacemakerDawg). The OS X application will be developed by William Smillie (C1D3R). Development on Linux application is in progress (by russjr08).
