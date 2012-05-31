@@ -16,8 +16,6 @@ We do not own Minecraft files, nor are we allowed to distribute Minecraft files,
 Credits:
 ===========
 
-This program was developed by Ethan Vrazel (Methos319) and Wasim Sandhu (PeacemakerDawg). The OS X application will be developed by William Smillie (C1D3R). Development on Linux application is in progress (by russjr08).
+This program was developed by Ethan Vrazel (Methos319) and Wasim Sandhu (PeacemakerDawg). The OS X application will be developed by William Smillie (C1D3R). Development on Linux application is in progress.
 
-Linux Version:
-===========
-Notice: Before you can start the Linux version of MineOffline, you need to download it and then do chmod +x MineOffline-Linux.sh otherwise when you try to launch it, it won't work. After you do that command to launch it you can use ./MineOffline-Linux.sh
+
